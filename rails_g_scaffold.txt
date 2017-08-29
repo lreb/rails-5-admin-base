@@ -1,0 +1,1 @@
+rails g scaffold todo name:string number:integer date:datetime deleted:boolean price:decimal comments:text
